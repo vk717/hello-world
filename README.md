@@ -2,4 +2,4 @@
 
 my first repository on GitHub
 
-I love :cookie: with :milk_glass:
+I love :cookie: with :milk_glass: and :sleeping_bed:
